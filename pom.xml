@@ -151,4 +151,11 @@
         </plugins>
     </build>
 
+	<developers>
+		<developer>
+			<name>Thiago Grego</name>
+			<email>thiago.t.grego@gmail.com</email>
+		</developer>
+	</developers>
+
 </project>
